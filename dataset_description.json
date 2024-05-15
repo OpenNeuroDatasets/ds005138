@@ -1,0 +1,18 @@
+{
+    "Name": "eddymotionPET",
+    "BIDSVersion": "v1.6.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Martin Norgaard"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "EthicsApprovals": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": ""
+}
