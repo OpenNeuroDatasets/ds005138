@@ -1,5 +1,5 @@
 {
-    "Name": "eddymotionPET",
+    "Name": "eddymotionPET benchmark dataset",
     "BIDSVersion": "v1.6.0",
     "DatasetType": "raw",
     "License": "CC0",
